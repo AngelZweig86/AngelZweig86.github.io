@@ -1,0 +1,4 @@
+theme = "hugo-theme-novela"
+baseURL = "wonderful-pike-b0c9ee.netlify.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
